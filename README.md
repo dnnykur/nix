@@ -5,6 +5,7 @@
 **Timezone:** Asia/Jakarta (WIB, UTC+7)
 
 ---
+![Screenshot](https://github.com/dnnykur/nix/blob/main/photo_2026-06-07_11-26-42.jpg?raw=true)
 
 ## Overview
 
