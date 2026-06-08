@@ -9,7 +9,7 @@
 
 ## Overview
 
-This is my personal NixOS `configuration.nix` for a **ThinkPad X1 Carbon (Gen 9)**. It sets up a KDE Plasma 6 desktop with a focus on gaming, development, media production, and privacy-conscious networking.
+This is my personal NixOS `configuration.nix` for a **ThinkPad X1 Carbon (Gen 9)**. It sets up a KDE Plasma 6 desktop.
 
 ---
 
